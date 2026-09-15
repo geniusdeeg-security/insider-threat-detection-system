@@ -265,13 +265,16 @@ Sensitive deployment-specific configurations, integrations, tuning parameters, a
 <img width="963" height="926" alt="Screenshot From 2026-09-09 16-31-23" src="https://github.com/user-attachments/assets/78ba03c8-1da3-4a8d-bbf9-1ce688a1b4a2" />
 
 
-<img width="953" height="970" alt="Screenshot From 2026-09-09 16-32-29" src="https://github.com/user-attachments/assets/1916122c-a86b-49db-9a5d-b8feffacab39" />
+<img width="943" height="948" alt="Screenshot From 2026-09-15 20-49-38" src="https://github.com/user-attachments/assets/967e4999-f49c-4417-a1d1-845b706d0e6f" />
 
 
-<img width="952" height="971" alt="Screenshot From 2026-09-09 16-33-08" src="https://github.com/user-attachments/assets/c693729c-4ff0-486f-a74b-08c1e9bca90b" />
+
+<img width="944" height="958" alt="Screenshot From 2026-09-15 20-50-02" src="https://github.com/user-attachments/assets/384e2dc4-5980-4b0d-a33e-3df2830b18f0" />
 
 
-<img width="952" height="191" alt="Screenshot From 2026-09-09 16-34-22 (Edited)" src="https://github.com/user-attachments/assets/300ff337-9e7d-435e-bc6e-e9a27d4b0c0d" />
+
+<img width="931" height="600" alt="Screenshot From 2026-09-15 20-50-24" src="https://github.com/user-attachments/assets/45901f5f-a214-4900-a0a6-c58888f873f5" />
+
 
 
 ## Key Engineering Challenges Solved
